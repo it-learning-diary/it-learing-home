@@ -1,7 +1,7 @@
 <!-- _coverpage.md -->
-![logo](_media/icon.svg) **
+![logo](media/top-logo.png) 
 
-# IT知识小屋 <small>It Learning Home</small>
+# IT知识小屋 <small> IT Learning Home</small>
 
 > 一个神奇的知识小屋，它能够给每一位IT学习者提供一些帮助。
 > 
@@ -40,12 +40,14 @@
     | 🧑总访客数: <span id="busuanzi_value_site_uv"></span>
 </span>
 
-[联系作者](https://github.com/docsifyjs/docsify/) 
+[联系作者](https://mp.weixin.qq.com/s/x82ID5rw5coKD5ChSIL0hg) 
 <a href="#README">开始阅读</a>
 
-<!-- 背景图片 -->
+<!-- 背景图片 ![](media/bg.png) -->
 
-![](media/bg.png)
+![color](#aedbd7)
+
+
 
 
 
