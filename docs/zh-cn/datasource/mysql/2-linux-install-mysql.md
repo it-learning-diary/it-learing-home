@@ -1,12 +1,12 @@
 
 
-# 前言
 
-- 《从0到1-全面深刻理解MySQL系列》第二篇就从最基本的安装MySQL-Linux环境开始。
+### 前言
 
-<br>
+- 《从0到1-全面深刻理解MySQL系列》第二篇就从最基本的安装MySQL-Linux环境开始,**感兴趣的小伙伴可以关注我,系列文章会持续更新,一起加油,一起进步!**
 
-# 1、删除旧版本
+
+### 1、删除旧版本
 <br>
 
 &emsp;&emsp;**查看服务器是否有自带的MySQL,如果有可以直接使用,如果自带的版本比较低,可以删除然后安装自己想要的版本**(在安装新版本MySQL之前，需要卸载服务器自带的MySQL包和MySQL数据库分支mariadb的包)
@@ -26,18 +26,18 @@
 <br>
 
 
-# 2、查看服务器内核类型,下载合适的版本并上传到服务器
+### 2、查看服务器内核类型,下载合适的版本并上传到服务器
 <br>
 
 
-## 2.1、使用cat /proc/version查看系统的内核类型
+#### 2.1、使用cat /proc/version查看系统的内核类型
 <br>
 
 <center><img src="https://img-blog.csdnimg.cn/20210708214248326.png" /></center>
 
 <br>
 
-## 2.2、到官网下载合适的类型
+#### 2.2、到官网下载合适的类型
 <br>
 
 <center><img src="https://img-blog.csdnimg.cn/20210708214537123.png" /></center>
@@ -52,7 +52,7 @@
 
 <br>
 
-## 2.3、通过rz命令或者xftp工具上传到服务器
+#### 2.3、通过rz命令或者xftp工具上传到服务器
 <br>
 
 &emsp;&emsp;**小贴士1:** 如果使用rz命令时提示找不到命令,直接执行: yum -y install lrzsz 则可以在线下载。<br>
@@ -121,7 +121,7 @@
 ## 3.3、启动MySQL服务器,如果报错，则执行第4步
 <br>
 
-&emsp;&emsp;**启动命令: systemctl start mysql** 
+**启动命令: systemctl start mysql** 
 
 ​		如果使用这个命令启动报错：Failed to start mysqld.service: Unit not found
 
@@ -181,4 +181,7 @@
 <br>
 
 &emsp;&emsp; 不积跬步，无以至千里;不积小流，无以成江海。今天播种努力的种子,总会有一天发芽!
+<br>
+
+ &emsp;&emsp;  **欢迎大家关注,如果觉得文章对你有帮助,不要忘记一键三连哦,你的支持是我创作更加优质文章的动力,有任何问题可以私信我,看到会及时给你答复！**。
 <br>

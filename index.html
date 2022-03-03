@@ -8,9 +8,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <meta name="keywords" content="Java后端开发,前端开发,大数据开发,数据结构,算法题,leetcode,开源,代码,计算机网络,操作系统,设计模式,编译原理,计算机组成原理,Spring,Spring Boot,Spring Cloud,Redis,MongoDB,Linux,JVM,IDEA,Docker,Git,SVN,MySQL,Tomcat,Nginx,Kubernetes,Elasticsearch,Kafka,程序员,分布式,微服务,大数据,开发者,编程,IT学习日记,面试真题,大厂,996">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+  <link rel="shortcut icon" href="/media/favicon.ico" type="image/x-icon" />
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <link rel="stylesheet" href="https://cdn.tobebetterjavaer.com/tobebetterjavaer/docsify/css/style.css">
+
   <style type="text/css">
 
   	.footer{
@@ -49,7 +50,8 @@
       name: '',
       repo: 'https://github.com/it-learning-diary/it-learing-home',
       loadSidebar: true,
-      subMaxLevel: 2,
+      // 自定义侧边栏后默认不会再生成目录，你也可以通过设置生成目录的最大层级开启这个功能,开启后会有多个层级目录，不建议
+      //subMaxLevel: 2,
       auto2top: true,
       // 启用封页面
       coverpage: true,
@@ -60,7 +62,7 @@
   	  name: 'IT知识小屋',
   	  // 添加页面标题(根据sidebar.md生成)
   	  loadSidebar: true,
-  	  autoHeader: true,
+  	  autoHeader: false,
   	  // 只在访问主页时加载封面。
   	  onlyCover: false,
   	  // 搜索框
