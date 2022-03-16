@@ -50,7 +50,11 @@
 	- [MySQL的存储引擎](docs/zh-cn/datasource/mysql/7-store-engine.md)
 
 * [📐算法](README.md?id=📐算法)
+
 	- [两数求和](docs/zh-cn/algorithm/leetcode/1-two-number-sum.md)
 	- [两数相加](docs/zh-cn/algorithm/leetcode/2-two-number-add.md)
 	- [无重复字符的最长子串](docs/zh-cn/algorithm/leetcode/3-longest-substring.md)
 	- [寻找两个数组的中位数](docs/zh-cn/algorithm/leetcode/4-median-of-two-sorted-arrays.md)
+
+* [💡写作技巧](README.md?id=💡写作技巧)
+	- [涨粉技巧(一)](docs/zh-cn/write-skill/increase-fans-skill-1.md)
