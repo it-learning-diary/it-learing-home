@@ -5,33 +5,33 @@
 
 &emsp;&emsp;**款式一：与你相遇的夏天**
 
-![image-20220213161220115](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220213161220115.png)
+![image-20220213161220115](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130330.png)
 
-![image-20220213161256693](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220213161256693.png)
+![image-20220213161256693](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130341.png)
 
 ---
 
 &emsp;&emsp;**款式二：卡哇伊**
 
-![image-20220213164302329](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213164302.png)
+![image-20220213164302329](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130353.png)
 
-![image-20220213164341330](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213164341.png)
+![image-20220213164341330](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130405.png)
 
 ---
 
 &emsp;&emsp;**款式三：妹妹说紫色很有韵味**
 
-![image-20220213161612272](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220213161612272.png)
+![image-20220213161612272](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130416.png)
 
 ---
 
 &emsp;&emsp;**款式四：二次元**
 
-![image-20220213162117741](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220213162117741.png)
+![image-20220213162117741](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130427.png)
 
 ---
 
-&emsp;&emsp;博主个人主页：<a href="http://42.194.186.190/index" alt="IT学习乐园" target="_blank">IT学习乐园</a>
+&emsp;&emsp;博主个人主页：<a href="http://www.it-learning.cn" alt="IT学习乐园" target="_blank">IT学习乐园</a>
 
 &emsp;&emsp;看完后有没有想搭建自己个人博客的冲动呢？**我们的主题可不止上面举例的几款而已哦，还有更多更优美、更精致的主题还没有完全列举出来，而且，我们还可以在这些主题上根据自己的需要DIY(自定义)，灵活度很高!** 
 
@@ -85,11 +85,11 @@
 
 &emsp;&emsp;下载地址：https://cn.wordpress.org/download/
 
-![image-20220212100923777](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220212100923777.png)
+![image-20220212100923777](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130456.png)
 
 &emsp;&emsp;上传到服务器并解压：tar -xf 压缩包名称
 
-![image-20220212101022511](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220212101022511.png)
+![image-20220212101022511](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130507.png)
 
 ---
 
@@ -98,22 +98,22 @@
 &emsp;&emsp;(1)、复制配置文件：cp wp-config-sample.php wp-config.php 
 
 
-![image-20220212104308020](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220212104308020.png)
+![image-20220212104308020](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130518.png)
 
 &emsp;&emsp;(2)、修改配置文件数据库信息
 
 &emsp;&emsp;注意：mysql8安装完后会生成一个默认密码，首次连接时需要输入，查询默认密码的方式：cat /var/log/mysqld.log | grep local
 
-![image-20220212105250242](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220212105250242.png)
+![image-20220212105250242](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130527.png)
 
 &emsp;&emsp;(3)、修改配置文件秘钥信息
 
 &emsp;&emsp;设置这些秘钥的目的是为了让你的wordpress网站更加安全，所以这一步建议要修改。
 
-![image-20220212105757386](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220212105757386.png)
+![image-20220212105757386](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130537.png)
 
 
-![image-20220212105515475](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220212105515475.png)
+![image-20220212105515475](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130548.png)
 
 ---
 
@@ -140,11 +140,11 @@ location ~ \.php$ {
 
 ```
 
-![image-20220212102721169](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220212102721169.png)
+![image-20220212102721169](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130558.png)
 
 &emsp;&emsp;(2)、保存修改并退出：Esc键 + 冒号 + wq(保存并退出vi的修改模式)
 
-![image-20220212103241515](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220212103241515.png)
+![image-20220212103241515](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130607.png)
 
 
 
@@ -162,32 +162,32 @@ location ~ \.php$ {
 
 &emsp;&emsp;(1)、访问下面地址进入安装引导：http://ip地址或者域名/wp-admin/index.php
 
-![image-20220212114917490](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220212114917490.png)
+![image-20220212114917490](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130621.png)
 
 &emsp;&emsp;(2)、配置完成，开始登录到后台
 
-![image-20220212115135361](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220212115135361.png)
+![image-20220212115135361](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130632.png)
 
 &emsp;&emsp;(3)、选择符合自己的语言环境
 
-![image-20220212115254836](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220212115254836.png)
+![image-20220212115254836](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130642.png)
 
 &emsp;&emsp;(4)、进入到后台管理界面
 
-![image-20220212115929656](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220212115929656.png)
+![image-20220212115929656](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130652.png)
 
 
 &emsp;&emsp;(5)、管理个人博客地址
 
-![image-20220212121200194](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220212121200194.png)
+![image-20220212121200194](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130703.png)
 
 &emsp;&emsp;(6)、访问个人博客主页
 
 &emsp;&emsp;注意：因为默认的是http://ip地址(默认是80)端口，但此时80端口已经被nginx代理，所以会进入到Nginx的默认页面，想要进入wordpress默认的主页，则需要在nginx配置文件中添加：**rewrite /wp-admin$ $scheme://$host$uri/ permanent;**  然后进入sbin目录重新加载nginx配置文件(./nginx -s reload)即可。
 
-![image-20220212133304061](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220212133304061.png)
+![image-20220212133723194](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130714.png)
 
-![image-20220212133723194](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220212133723194.png)
+![image-20220212133723194](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326191834.png)
 
 ---
 
@@ -197,11 +197,11 @@ location ~ \.php$ {
 
 &emsp;&emsp;购买链接：https://curl.qcloud.com/L1epMj7b
 
-![image-20220213171502922](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213171503.png)
+![image-20220213171502922](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130737.png)
 
 &emsp;&emsp;现在入手还可以免费领取优惠卷，领取链接：https://curl.qcloud.com/YIRVbiCZ
 
-![image-20220213172055255](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213172055.png)
+![image-20220213172055255](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130748.png)
 
 ---
 
@@ -215,5 +215,5 @@ location ~ \.php$ {
 
 &emsp;&emsp;加入技术圈子，除了遇到搭建问题免费指导，还能第一时间收到行业最新咨询和认识各专业大佬！
 
-&emsp;&emsp;博主个人技术博客主页（可以交换友链）：<a href="http://42.194.186.190/index" alt="IT学习乐园" target="_blank">IT学习乐园</a>
+&emsp;&emsp;博主个人技术博客主页（可以交换友链）：<a href="http://www.it-learning.cn/" alt="IT学习乐园" target="_blank">IT学习乐园</a>
 

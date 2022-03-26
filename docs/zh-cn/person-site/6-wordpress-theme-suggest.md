@@ -14,20 +14,20 @@
 
 &emsp;&emsp;1、将第三方主题上传到服务器wordpress的themes目录下
 
-![image-20220213180252875](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213180252.png)
+![image-20220213180252875](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326131347.png)
 
 &emsp;&emsp;2、解压并删除压缩包
 
-![image-20220213180423574](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213180423.png)
+![image-20220213180423574](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326131440.png)
 
 
 &emsp;&emsp;3、在博客后台查看新安装的主题
 
-![image-20220213180657124](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213180657.png)
+![image-20220213180657124](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326131600.png)
 
 &emsp;&emsp;4、博客主页查看应用的主题效果
 
-![image-20220213180935924](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213180936.png)
+![image-20220213180935924](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326131632.png)
 
 ---
 
@@ -39,15 +39,15 @@
 
 &emsp;&emsp;1、在后台进入官方主题库：外观 =》主题 =》安装主题
 
-![image-20220213181219648](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213181219.png)
+![image-20220213181219648](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326131643.png)
 
 &emsp;&emsp;2、根据各种选项筛选到自己喜欢的主题并安装
 
-![image-20220213181534935](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213181535.png)
+![image-20220213181534935](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326131654.png)
 
 &emsp;&emsp;3、在外观 =》 主题下应用刚安装过的主题
 
-![image-20220213181837391](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213181837.png)
+![image-20220213181837391](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326131704.png)
 
 
 
@@ -79,27 +79,27 @@
 
 &emsp;&emsp;1、简洁、优美的一款主题：https://github.com/syfxlin/origami 
 
-![image-20220213185000601](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213185000.png)
+![image-20220213185000601](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326131717.png)
 
 &emsp;&emsp;2、功能强大，二次元主题：https://github.com/mirai-mamori/Sakurairo
 
-![image-20220213185806962](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213185807.png)
+![image-20220213185806962](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326131727.png)
 
 &emsp;&emsp;3、极简、开发者、设计师专用：https://github.com/limileo/L-Talk
 
-![image-20220213190342586](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213190342.png)
+![image-20220213190342586](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326131740.png)
 
 &emsp;&emsp;4、另一二次元风格主题：https://github.com/baomihuahua/lolimeow
 
-![image-20220213190906044](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213190906.png)
+![image-20220213190906044](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326131749.png)
 
 &emsp;&emsp;5、优美二次元主题：https://github.com/mashirozx/sakura/
 
-![image-20220213191625735](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213191626.png)
+![image-20220213191625735](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326131758.png)
 
 &emsp;&emsp;6、简洁的主题：https://github.com/seatonjiang/kratos
 
-![image-20220213191701828](https://gitee.com/whose-white-moon/blog-image/raw/master/20220217233311.png)
+![image-20220213191701828](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326131807.png)
 
 
 
@@ -109,47 +109,47 @@
 
 &emsp;&emsp;1、简洁、优雅的主题：http://demo.alx.media/x/?theme=Readspec
 
-![image-20220131100831959](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220131100831959.png)
+![image-20220131100831959](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326131847.png)
 
 &emsp;&emsp;2、简洁的主题：https://www.wpdaxue.com/wordpress-blog-theme-plain.html
 
-![image-20220213192205991](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213192206.png)
+![image-20220213192205991](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326131858.png)
 
 &emsp;&emsp;3、简单的主题：https://andersnoren.se/themes/lovecraft/
 
-![image-20220213192316595](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213192316.png)
+![image-20220213192316595](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326131905.png)
 
 &emsp;&emsp;4、清新的主题：http://demo.alx.media/slanted/(https://www.wpdaxue.com/wordpress-theme-slanted.html 
 
-​	![image-20220131100444804](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220131100444804.png)
+![image-20220131100444804](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326131914.png)
 
 &emsp;&emsp;5、简单的主题：http://freeresponsivethemes.com/preview/?theme=Easyblog
 
- ![image-20220131095908496](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220131095908496.png)
+![image-20220131095908496](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326131923.png)
 
 &emsp;&emsp;6、多功能、响应式的主题：https://www.wpdaxue.com/wordpress-theme-kratos.html
 
-![image-20220213192517083](https://gitee.com/whose-white-moon/blog-image/raw/master/20220217231900.png)
+![image-20220213192517083](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326131933.png)
 
 &emsp;&emsp;7、简洁的响应式的主题：
 
-![image-20220213192608905](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213192609.png)
+![image-20220213192608905](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326131944.png)
 
 &emsp;&emsp;8、清新、响应式的主题：http://freeresponsivethemes.com/preview/?theme=Savona%20Classic
 
-![image-20220213192659103](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213192659.png)
+![image-20220213192659103](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326131952.png)
 
 &emsp;&emsp;9、个人特色的主题：http://freeresponsivethemes.com/preview/?theme=Blog%20Personal
 
-![image-20220213192753691](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213192753.png)
+![image-20220213192753691](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132002.png)
 
 &emsp;&emsp;10、多图轮动的主题：http://freeresponsivethemes.com/preview/?theme=Di%20Blog
 
-![image-20220213192927866](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213192928.png)
+![image-20220213192927866](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132011.png)
 
 &emsp;&emsp;11、浅色的主题：http://freeresponsivethemes.com/preview/?theme=Bloggers%20Lite
 
-![image-20220213193017568](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213193017.png)
+![image-20220213193017568](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132021.png)
 
 
 
@@ -169,7 +169,7 @@
 
 &emsp;&emsp;因为是个人网站，所以服务器资源配置可能不会很好，网站又安装了各种主题，在加载的时候会比较慢，这款插件能够帮助提升网站加载速度，非常不错值得推荐！
 
-![image-20220213194008631](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213194008.png)
+![image-20220213194008631](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132032.png)
 
 
 
@@ -179,7 +179,7 @@
 
 &emsp;&emsp;大家搭建网站，除了用来存放个人的一些学习文章或者资源外，还希望有人能够访问，这款插件能够提供有关网站访问者的完整信息，巴适的很！
 
-![image-20220213194503920](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213194504.png)
+![image-20220213194503920](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132041.png)
 
 ---
 

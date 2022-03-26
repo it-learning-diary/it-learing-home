@@ -8,7 +8,7 @@
 
 &emsp;&emsp;Oak正是由JAVA之父James Gosling领导的绿色计划(Green Project)中的产品，在1995年更名为JAVA，并在SunWord大会上正式提出了"Write Once，Run Anywhere"口号。**岁月如流，转眼间距离第一个JAVA版本诞生到现在已经20多年的时间，通过下面的时间线，一起回顾那些年我们学习过的JAVA。**
 
-![image-20211129234040459](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211129234040459.png)
+![image-20211129234040459](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180737.png)
 
 
 &emsp;&emsp;时至今日(2021-11)，JAVA已经更新到了JDK17，从上面的时间线图片里密密麻麻的里程碑中，我们能够知道JAVA在这些年发展之迅速。下图为TIOBE 2021年11月语言排行榜单
@@ -17,7 +17,7 @@
 
 &emsp;&emsp;官方网站：https://www.tiobe.com/tiobe-index/
 
-![image-20211130220917862](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211130220917862.png)
+![image-20211130220917862](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180744.png)
 
 ### JAVA能够长盛不衰的原因
 
@@ -29,7 +29,7 @@
 
 &emsp;&emsp;简单讲就是一个程序就可以被抽象成一个人，一个人会有两个眼睛、一个嘴巴等属性，可以有吃饭、行走等行为，程序也可以抽象成类似的属性和行为。
 
-![image-20211130232258112](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211130232258112.png)
+![image-20211130232258112](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180754.png)
 
 &emsp;&emsp;关于面向对象编程更详细的解释请看之前的一片博文：
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;说一个东西简不简单其实是需要有东西对比才能够体现出来，了解或者学习过其他语言(如C++)的小伙伴就知道，JAVA中大体上语法和C++相类似，但是C++中一些比较难以理解、容易混淆的概念在JAVA中是没有的(如指针)，JAVA是通过一种更清楚、更易理解的方式(即引用)来实现这些容易让人混淆的概念，所以对比起来就会感觉JAVA是更加简单的。
 
-![image-20211130233811412](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211130233811412.png)
+![image-20211130233811412](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180801.png)
 
 &emsp;&emsp;**3、跨平台**
 
@@ -48,7 +48,7 @@
 
 
 
-![image-20211130233424796](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211130233424796.png)
+![image-20211130233424796](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180811.png)
 
 
 &emsp;&emsp;**4、健壮性**
@@ -59,7 +59,7 @@
 
 &emsp;&emsp;使用JAVA语言编写的程序则具有这方面的特性。**首先JAVA语言程序会在编译和运行时对可能出现的问题进行检查，减少因未知原因导致程序崩溃的情况。同时，JAVA语言提供了异常处理机制，它能够在编译时提示未被处理异常或者为运行抛出异常提供兜底方案，防止程序崩溃。**
 
-![image-20211201214136326](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211201214136326.png)
+![image-20211201214136326](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180820.png)
 
 &emsp;&emsp;**5、安全性**
 
@@ -67,21 +67,21 @@
 
 &emsp;&emsp;如：在编译层，JAVA会进行各种语法检测，不满足语法的写法在编译时报错无法被解释执行，在解释层，会对JAVA程序编译出来的字节码校验，同时还会进行代码段格式、类型转换是否合法等方面的检查，从而保障程序执行的一个安全性。
 
-![image-20211201220414352](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211201220414352.png)
+![image-20211201220414352](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180829.png)
 
 
 &emsp;&emsp;**6、支持多线程**
 
 &emsp;&emsp;随着科技的发展，人们对软件的使用体验有了更高的要求，响应速度就是其中非常重要的指标。JAVA内置了多线程的支持，通过多线程，计算机可以同时处理多个任务，因为处理器处速度远快于人接受信息的速度，人们会感觉软件的响应非常快，用户体验非常好。
 
-![image-20211201221700156](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211201221700156.png)
+![image-20211201221700156](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180838.png)
 
 
 &emsp;&emsp;**7、可移植性**
 
 &emsp;&emsp;JAVA的可移植性主要与它的跨平台(平台无关性)有关，JAVA中的类库也实现了与平台无关的接口，从而具有了可移植性。JAVA的编译器也是使用JAVA语言编写的(详细可查看：http://hg.openjdk.java.net/jdk6/jdk6/langtools/file/779c45081059/src/share/classes/com/sun/tools/javac)，解释器则是由标准的C实现，所以整个JAVA系统都具有可移植性。
 
-![image-20211201222423285](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211201222423285.png)
+![image-20211201222423285](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180845.png)
 
 
 &emsp;&emsp;**8、动态性**

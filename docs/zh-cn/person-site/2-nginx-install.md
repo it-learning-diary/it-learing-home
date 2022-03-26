@@ -4,7 +4,7 @@
 
 &emsp;&emsp;地址：https://nginx.org/en/download.html
 
-![image-20220210220131517](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220210220131517.png)	
+![image-20220210220131517](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130117.png)
 
 ---
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;说明：使用rz命令实现文件上传到服务器
 
-![image-20220210220800499](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220210220800499.png)
+![image-20220210220800499](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130128.png)
 
 ---
 
@@ -48,21 +48,21 @@
 
 &emsp;&emsp;命令：tat -xvf  压缩包名称
 
-![image-20220210222556198](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220210222556198.png)
+![image-20220210222556198](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130140.png)
 
 &emsp;&emsp;**配置安装地址，执行编译、安装操作**
 
 &emsp;&emsp;1、配置安装地址：./configure --prefix=/usr/local/blog/nginxconf
 
-![image-20220210222915921](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220210222915921.png)
+![image-20220210222915921](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130151.png)
 
 &emsp;&emsp;2、编译：make
 
-![image-20220210223021388](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220210223021388.png)
+![image-20220210223021388](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130203.png)
 
 &emsp;&emsp;3、安装：make install
 
-![image-20220210223249247](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220210223249247.png)
+![image-20220210223249247](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130213.png)
 
 ---
 
@@ -70,19 +70,19 @@
 
 &emsp;&emsp;1、测试nginx是否安装成功：./nginx -t
 
-![image-20220210223457210](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220210223457210.png)
+![image-20220210223457210](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130224.png)
 
 &emsp;&emsp;2、启动nginx：./nginx
 
-![image-20220210223725317](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220210223725317.png)
+![image-20220210223725317](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130234.png)
 
 &emsp;&emsp;3、在浏览器访问nginx(记得要在防火墙中放行80端口)：
 
-![image-20220210223922115](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220210223922115.png)
+![image-20220210223922115](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130248.png)
 
 &emsp;&emsp;4、设置开启自启动（可选）：vim /etc/rc.d/rc.local，然后将nginx的sbin目录添加到该文件中
 
-![image-20220210224421091](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220210224421091.png)
+![image-20220210224421091](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130259.png)
 
 ---
 

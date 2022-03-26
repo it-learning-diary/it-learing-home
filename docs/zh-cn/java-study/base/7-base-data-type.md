@@ -56,7 +56,7 @@
 
 &emsp;&emsp;**其实在oracle的官方文档中也有对boolean类型进行了简单的描述：** boolean类型只有两种可能的值-真或假，这个数据类型用于做真假条件的简单标记跟踪，它的作用仅是用来标识这一个信息，但是它的大小并不是精确定义的。
 
-![image-20220123190217916](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220123190217916.png)
+![image-20220123190217916](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181225.png)
 
 &emsp;&emsp;官方文档中对boolean也没有给出明确的大小定义，但是在JAVA虚拟机书籍中又说明了boolean是占用4个字节的，由此我们也能得出一个结论：**boolean占用的存储空间实际上取决于JAVA虚拟机的具体实现来决定，1个还是4个字节都是存在可能性的，背后的逻辑其实是对执行效率和存储空间的一个取舍。**
 
@@ -123,7 +123,7 @@
 
 &emsp;&emsp;如果想得到一个字符对应的Unicode排序位置，可以使用int类型显示转换，即使用int类型接收char字符类型的值，如：int p = 'a'(此时p得到的值就是97)。
 
-![image-20220123231454046](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220123231454046.png)
+![image-20220123231454046](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181235.png)
 
 &emsp;&emsp;使用举例：
 
@@ -133,7 +133,7 @@
 
 &emsp;&emsp;Unicode编码表如下：
 
-![image-20220123231038055](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220123231038055.png)
+![image-20220123231038055](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181243.png)
 
 ## 浮点类型
 
@@ -149,7 +149,7 @@
 
 - 变量定义：float money = 3.14f;
 
-![image-20220123233617542](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220123233617542.png)
+![image-20220123233617542](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181252.png)
 
 
 ### double类型
@@ -160,7 +160,7 @@
 
 - 变量定义：double money = 3.14或者double = 123.5D;
 
-![image-20220123234256425](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220123234256425.png)
+![image-20220123234256425](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181259.png)
 
 ## 各大类型总结
 
@@ -185,11 +185,11 @@
 
 &emsp;&emsp;常见的基础数据类型精度由低到高可以排序为：byte、short、char、int、long、float、double。**当我们将低精度的数据类型赋值给高精度的数据类型时，系统会自动完成数据类型的转换**(类比思想：将小容量的物体存放到大容量的容器中，当然是没有问题的)，如：
 
-![image-20220124080730407](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220124080730407.png)
+![image-20220124080730407](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181307.png)
 
 &emsp;&emsp;但如果需要将高精度的类型转换成低精度的类型，那么就会出现精度的丢失，所以必须显示指定类型转换，**格式如下：(需要转换的类型)要转换的值**
 
-![image-20220123235724510](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220123235724510.png)
+![image-20220123235724510](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181313.png)
 
 
 ## 小结

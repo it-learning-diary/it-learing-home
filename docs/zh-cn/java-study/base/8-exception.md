@@ -19,7 +19,7 @@
 
 (三): 异常家族的结构
 
-![image-20210616222143599](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20210616222143599.png)
+![image-20210616222143599](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180346.png)
 
 
 

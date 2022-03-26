@@ -10,7 +10,7 @@
 
 &emsp;&emsp;离线下载后可通过rz命令上传到服务器：rz -be 文件名
 
-![image-20220206164701929](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220206164701929.png)
+![image-20220206164701929](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326125426.png)
 
 ---
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;执行代码：tar -xvf  php-8.0.0.tar.gz
 
-![image-20220206173311010](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220206173311010.png)
+![image-20211219210436240](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326125609.png)
 
 ---
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;5、配置成功后会出现下面提示：
 
-![image-20220208155945357](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220208155945357.png)
+![image-20220208155945357](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326125709.png)
 
 ---
 
@@ -71,7 +71,7 @@ dnf -y install libzip-devel
 
 &emsp;&emsp;1、异常信息：
 
-![image-20220206173718813](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220206173718813.png)
+![image-20220206173718813](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326125725.png)
 
 ```
 configure: error: Package requirements (libxml-2.0 >= 2.9.0) were not met:
@@ -81,7 +81,7 @@ No package 'libxml-2.0' found
 
 &emsp;&emsp;2、异常信息：
 
-![image-20220206173919732](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220206173919732.png)
+![image-20220206173919732](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326125739.png)
 
 ```
 -bash: dnf: command not found
@@ -90,7 +90,7 @@ No package 'libxml-2.0' found
 
 &emsp;&emsp;3、异常信息：
 
-![image-20220206174403895](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220206174403895.png)
+![image-20220206174403895](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326125759.png)
 
 ```
 configure: error: Package requirements (sqlite3 > 3.7.4) were not met:
@@ -101,7 +101,7 @@ No package 'sqlite3' found
 
 &emsp;&emsp;4、异常信息：
 
-![image-20220206175158134](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220206175158134.png)
+![image-20220206175158134](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326125811.png)
 
 ```
 checking for BZip2 in default path... not found
@@ -112,7 +112,7 @@ configure: error: Please reinstall the BZip2 distribution
 
 &emsp;&emsp;5、异常信息：
 
-![image-20220206175450008](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220206175450008.png)
+![image-20220206175450008](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326125823.png)
 
 ```
 configure: error: Package requirements (libcurl >= 7.29.0) were not met:
@@ -123,7 +123,7 @@ No package 'libcurl' found
 
 &emsp;&emsp;6、异常信息：
 
-![image-20220206175615010](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220206175615010.png)
+![image-20220206175615010](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326125846.png)
 
 ```
 configure: error: Package requirements (libpng) were not met:
@@ -153,7 +153,7 @@ Package 'freetype2', required by 'virtual:world', not found
 
 &emsp;&emsp;9、异常信息：
 
-![image-20220206180127070](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220206180127070.png)
+![image-20220206180127070](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326125901.png)
 
 ```
 configure: error: Package requirements (icu-uc >= 50.1 icu-io icu-i18n) were not met:
@@ -219,11 +219,11 @@ Requested 'libzip >= 0.11' but version of libzip is 0.10.1
 
 ​		1、编译：make
 
-![image-20220208170518841](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220208170518841.png)
+![image-20220208170518841](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326125921.png)
 
 ​		2、安装：make install
 
-![image-20220208170619708](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220208170619708.png)
+![image-20220208170619708](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326125935.png)
 
 &emsp;&emsp;3、出现异常：cc: internal compiler error: Killed (program cc1)
 
@@ -256,7 +256,7 @@ sudo rm /swapfile
 
 &emsp;&emsp;执行结果：
 
-![image-20220208170643929](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220208170643929.png)
+![image-20220208170643929](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326125949.png)
 
 ---
 
@@ -309,7 +309,7 @@ chmod 740 /usr/local/install/php8/fpm/php-fpm
 /usr/local/install/php8/fpm/php-fpm start
 ```
 
-![image-20220208180228571](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220208180228571.png)
+![image-20220208180228571](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130003.png)
 
 2、查看php-fpm进程是否启动成功
 
@@ -317,7 +317,7 @@ chmod 740 /usr/local/install/php8/fpm/php-fpm
 ps aux | grep php | grep -v grep
 ```
 
-![image-20220208180409541](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220208180409541.png)
+![image-20220208180409541](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130016.png)
 
 3、查看pfp-fpm占用的端口
 
@@ -325,7 +325,7 @@ ps aux | grep php | grep -v grep
 ss -lntp | grep php
 ```
 
-![image-20220208180643917](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220208180643917.png)
+![image-20220208180643917](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130028.png)
 
 4、执行php --version出现php command not found异常，解决步骤
 
@@ -344,7 +344,7 @@ source /etc/profile
 
 5、大功告成
 
-![image-20220208181510517](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220208181510517.png)
+![image-20220208181510517](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326130042.png)
 
 ---
 

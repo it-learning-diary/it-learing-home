@@ -46,7 +46,7 @@
 
 
 
-<center><img src = "https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211023094632081.png"></center>
+![image-20211023094632081](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181551.png)
 
 
 
@@ -79,7 +79,7 @@
 
 &emsp;&emsp;5、执行冲马桶方法(不冲！臭的可是你自己！)<br>
 
-<center><img src = "https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211023094810181.png"></center>
+![image-20211023094810181](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181607.png)
 
 <br>
 
@@ -120,7 +120,7 @@
 
 
 
-<center><img src = "https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211023095250119.png"></center>
+![image-20211023095250119](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181621.png)
 
 
 <br>
@@ -140,7 +140,7 @@
 
 
 
-<center><img src = "https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211023095401085.png"></center>
+![image-20211023095401085](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181633.png)
 
 
 <br>
@@ -218,7 +218,7 @@
 
 
 
-<center><img src = "https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211023095450573.png"></center>
+![image-20211023095450573](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181648.png)
 
 
 <br>
@@ -227,8 +227,7 @@
 
 
 
-<center><img src = "https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211023095523489.png"></center>
-
+![image-20211023095523489](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181702.png)
 
 <br>
 
@@ -236,8 +235,7 @@
 
 
 
-<center><img src = "https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211023095557624.png"></center>
-
+![image-20211023095557624](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181713.png)
 
 <br>
 

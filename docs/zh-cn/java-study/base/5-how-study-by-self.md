@@ -14,19 +14,19 @@
 
 &emsp;&emsp;封装: 隐藏对象的属性和实现细节、只提供访问的公共方法,实现的方式是通过访问修饰符来限定。
 
-![](https://gitee.com/whose-white-moon/blog-image/raw/master/20220303082529.png)
+![](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181131.png)
 
 
 
 &emsp;&emsp;继承: 继承表示的是一个类拥有另一个类的相关信息,通过关键字extends实现,被继承的类叫父类(基类、超类),得到继承信息的类也叫子类或派生类,JAVA中类只能单继承,但是可以实现多个接口。
 
-​	![image-20210607200843724](https://gitee.com/whose-white-moon/blog-image/raw/master/20220303082537.png)
+​	![image-20210607200843724](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181134.png)
 
 
 
 &emsp;&emsp;多态: 同一个行为可以有不同的表现形式的能力。具体来说就是一个类型可以有多种表现的形式,如:动物可以是狗、也可以是猫,具体如图所示:
 
-![image-20210607215654546](https://gitee.com/whose-white-moon/blog-image/raw/master/20220303082544.png)
+![image-20210607215654546](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181137.png)
 
 
 ### 延伸问题二:多态有什么优点
@@ -42,7 +42,7 @@
 &emsp;&emsp;重写
 &emsp;&emsp;使用父类/接口接收子类对象
 
-![image-20210607222417728](https://gitee.com/whose-white-moon/blog-image/raw/master/20220303082548.png)
+![image-20210607222417728](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181140.png)
 
 ``
 
@@ -215,7 +215,7 @@ class Animal3{
 
 &emsp;&emsp;父类的静态方法不能被子类重写。重写只适用于实例方法，不能用于静态方法,当父类和子类有相同名称的静态方法时,如果使用父类接收子类对象,则调用静态方法时,会直接使用父类的方法而隐藏掉子类的静态方法。
 
-![image-20210607225844097](C:\Users\helloworld\AppData\Roaming\Typora\typora-user-images\image-20210607225844097.png)
+![image-20210607225844097](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326190704.png)
 
 ### 延伸问题一:构造器（constructor）是否可被重写（override）？
 
@@ -239,7 +239,7 @@ class Animal3{
 
 ### 4.1:访问修饰符public,private,protected,以及不写（默认）时的区别
 
-![image-20210607230714096](C:\Users\helloworld\AppData\Roaming\Typora\typora-user-images\image-20210607230714096.png)
+![image-20210607230714096](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326190710.png)
 
 ## 五:String是最基本的数据类型吗？
 

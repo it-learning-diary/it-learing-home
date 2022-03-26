@@ -36,7 +36,7 @@
 
 &emsp;&emsp;一般来说国内云服务厂商的备案流程图与步骤如下：
 
-![image-20220213234000333](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213234000.png)
+![image-20220213234000333](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132100.png)
 
 - 填写备案信息 =》上传到云厂商初审(**时间一般1~2个工作日**)
 
@@ -54,7 +54,7 @@
 
   
   
-  ![image-20220213231858912](https://gitee.com/whose-white-moon/blog-image/raw/master/20220213231859.png)
+  ![image-20220213231858912](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132108.png)
 
 ---
 
@@ -123,17 +123,17 @@
 
 #### 1、备案前基础信息核验
 
-![image-20220219200811045](https://gitee.com/whose-white-moon/blog-image/raw/master/20220219200818.png)
+![image-20220219200811045](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132121.png)
 
-![image-20220219204554000](https://gitee.com/whose-white-moon/blog-image/raw/master/20220219204554.png)
+![image-20220219204554000](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132128.png)
 
-![image-20220219204743376](https://gitee.com/whose-white-moon/blog-image/raw/master/20220219204743.png)
+![image-20220219204743376](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132136.png)
 
-![image-20220219205038515](https://gitee.com/whose-white-moon/blog-image/raw/master/20220219205038.png)
+![image-20220219205038515](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132145.png)
 
-![image-20220219205514773](https://gitee.com/whose-white-moon/blog-image/raw/master/20220219205514.png)
+![image-20220219205514773](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132153.png)
 
-![image-20220219210059819](https://gitee.com/whose-white-moon/blog-image/raw/master/20220219210059.png)
+![image-20220219210059819](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132201.png)
 
 
 
@@ -141,7 +141,7 @@
 
 
 
-![image-20220219210645823](https://gitee.com/whose-white-moon/blog-image/raw/master/20220219210646.png)
+![image-20220219210645823](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132209.png)
 
 
 
@@ -149,21 +149,19 @@
 
 
 
-![image-20220219211812933](https://gitee.com/whose-white-moon/blog-image/raw/master/20220219211813.png)
-
-
+![image-20220219211812933](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132217.png)
 
 #### 4、补充材料信息填写
 
 
 
-![image-20220219212722320](https://gitee.com/whose-white-moon/blog-image/raw/master/20220219212722.png)
+![image-20220219212722320](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132226.png)
 
 #### 5、备案信息确认
 
-![image-20220219213231593](https://gitee.com/whose-white-moon/blog-image/raw/master/20220219213231.png)
+![image-20220219213231593](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132235.png)
 
-![image-20220219213528240](https://gitee.com/whose-white-moon/blog-image/raw/master/20220219213528.png)
+![image-20220219213528240](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132244.png)
 
 ---
 
@@ -173,25 +171,25 @@
 
 &emsp;&emsp;如果其他云厂商的备案主体信息是非空壳的(即审核通过且绑定有网站的)，是可以直接共用一个备案主体信息，但是需要在新的云厂商有备案记录，以腾讯云为例，可以直接进行接入备案即可。
 
-![image-20220220101310400](https://gitee.com/whose-white-moon/blog-image/raw/master/20220220101310.png)
+![image-20220220101310400](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132252.png)
 
 #### 问题2、如何注销空壳主体
 
 &emsp;&emsp;如果您在其他云厂商有备案主体，但是是空壳的(主体下面没有绑定备案网站的)，需要先进行空壳主体注销，否则无法在新的云厂商下进行网站备案。
 
-![image-20220217221409679](https://gitee.com/whose-white-moon/blog-image/raw/master/20220217221416.png)
+![image-20220217221409679](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132303.png)
 
 &emsp;&emsp;判断是否存在空壳主体，可以在ICP/IP官网(https://beian.miit.gov.cn/)查询如下图
 
-![image-20220220101819320](https://gitee.com/whose-white-moon/blog-image/raw/master/20220220101819.png)
+![image-20220220101819320](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132312.png)
 
 &emsp;&emsp;**注销方式1：主动注销，** 需要在ICP/IP官网查询具体备案主体的省份要求，填写相应的注销申请文件，并邮寄到管局。
 
-![image-20220220102633715](https://gitee.com/whose-white-moon/blog-image/raw/master/20220220102633.png)
+![image-20220220102633715](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132324.png)
 
 &emsp;&emsp;**注销方式2：被动注销(推荐)，** 一般每个省份会定期对空壳主体进行删除，并且在工信部网站上进行展示，不同的省份定期处理空壳主体的时间不一样，像深圳就是3~5个工作日，如果是不着急的朋友，建议使用这种方式，毕竟主动注销比较麻烦。
 
-![image-20220220103005242](https://gitee.com/whose-white-moon/blog-image/raw/master/20220220103005.png)
+![image-20220220103005242](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132334.png)
 
 #### 问题3、个人备案需要注意哪些事项
 
@@ -222,5 +220,4 @@
 &emsp;&emsp;至此为止，我们从0到1搭建个人网站的教程就结束了。**欢迎大家添加博主交流，搭建过程中遇到问题博主也可以提供支持，如果有需要服务器资源的，博主也可以推荐(有活动)。**
 
 &emsp;&emsp;最后，如果觉得文章对您有帮助，**可以给博主Star，博主会不断推出更多更优质的文章。**
-
 

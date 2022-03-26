@@ -42,7 +42,7 @@
 
 <br>
 
-![image-20211019212656251](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211019212656251.png)
+![image-20211019212656251](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326175845.png)
 
 <br>
 
@@ -147,9 +147,10 @@ public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 
 <br>
 
-![image-20211019230949109](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211019230949109.png)
+![image-20211019230949109](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326184805.png)
 
 ## 六、总结经验
+
 <br>
 
 &emsp;&emsp;上面的两种方案我们都可以解决这个Boss，那它们之间的时间复杂度会存在什么差别？下面来一起推导它们的时间复杂度吧！
@@ -181,5 +182,4 @@ public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 
 &emsp;&emsp;问题可以是有穷的，但是解决问题的办法确实无穷的，刷leetcode的目的不仅仅是为了应付面试，更多的是为了培养我们遇到问题、解决问题的思考方式。
 <br>
-
 

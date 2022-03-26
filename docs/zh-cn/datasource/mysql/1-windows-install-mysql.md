@@ -1,4 +1,3 @@
-
 # 前言
 
 <br>
@@ -210,5 +209,3 @@ ALTER USER root@localhost IDENTIFIED WITH caching_sha2_password BY '123456';
 
 &emsp;&emsp; 不积跬步，无以至千里；不积小流，无以成江海。今天播种努力的种子,总会有一天发芽!
 <br>
-
- &emsp;&emsp;  **欢迎大家关注,如果觉得文章对你有帮助,不要忘记一键三连哦,你的支持是我创作更加优质文章的动力,有任何问题可以私信我,看到会及时给你答复！**。

@@ -5,22 +5,20 @@
 &emsp;&emsp;蚌住了！今天被一位初学JAVA的小伙伴询问：学习JAVA能够干什么? 一时间竟不知从何答起。学习JAVA能够做什么? 许多初学JAVA的小伙伴应该都有过这个疑问，如果搞不清楚，就会像每次跟邻居、亲戚说自己是计算机专业，他们就认为你是修电脑、空调的一样。 
 
 
-![image-20211122215626214](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211122215626214.png)
+![image-20211122215626214](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180355.png)
 
 ## 初见JAVA
 
 &emsp;&emsp;回想当初，初学JAVA的时候，并不知道JAVA能够做什么，只是为了得到学分，稀里糊涂地就去学习了，相信很多初学者刚开始也是跟我一样有相同的想法，比如某乎上关于这个问题的提问关注度就非常高。
 
-
-
-![image-20211121105250348](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211121105250348.png)
+![image-20211121105250348](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180403.png)
 
 &emsp;&emsp;**许多初学JAVA的"十万个为什么"**
 
 
 
 
-![image-20211121110417526](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211121110417526.png)
+![image-20211121110417526](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180411.png)
 
 
 
@@ -31,16 +29,16 @@
 
 &emsp;&emsp;现在社会，我们已经离不开微信、QQ等沟通软件，**但你在使用这些沟通软件时是否想过它们是如何知道："你就是你"？**
 
-![image-20211121111851886](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211121111851886.png)
+![image-20211121111851886](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180420.png)
 
 
 &emsp;&emsp;大家会发现，第一次登录的时候需要你先注册一个账号，后面登录时你需要输入账号和密码或者通过输入手机验证码，验证成功了就可以进入到微信、QQ中。为什么根据正确的账号密码就可以进入自己的界面，看到自己的聊天记录和表情包而不是别人的，JAVA在这个方面可以说起着举足轻重的作用(此处使用JAVA语言举例，除了JAVA外其他的一些语言也是可以实现的)。
 
-![image-20211121113647095](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211121113647095.png)
+![image-20211121113647095](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180428.png)
 
 &emsp;&emsp;在你注册的过程，其实后台的程序就会将你的账号和密码保存到一个仓库中(就像我们平时账号密码多了害怕忘记，会记录在笔记本上一样)，以后每一次登录，它都会去这个仓库查询是否存在登录时输入的账号和密码，如果存在，那就登录成功，否则，登录失败。
 
-![image-20211121114644010](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211121114644010.png)
+![image-20211121114644010](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180436.png)
 
 &emsp;&emsp;上面涉及到一个保存账号密码以及验证账号密码程序，这个程序就可以使用JAVA语言来实现，此时又会有小伙伴问了，这两个流程挺简单的嘛，实现应该很容易吧。
 
@@ -48,7 +46,7 @@
 
 &emsp;&emsp;**确实，流程挺简单的，但是实现需要考虑的问题可不少呢**，比如密码如果直接存储在仓库中，一旦仓库被别人发现了，别人就可以用你的账号密码登陆，这个问题可不能忍受，因此存储密码的时候我们需要对密码进行加密吧。
 
-![image-20211121115819355](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211121115819355.png)
+![image-20211121115819355](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180444.png)
 
 &emsp;&emsp;微信、QQ这种软件，同时注册和登录的人数以亿计，一个仓库存储不够吧，需要拓展多个仓库，如何正确分配多个仓库存储且能够在对应仓库找到这个账号和密码都是需要这个程序考虑的问题，这样一说起来，这个程序需要考虑的东西还挺多。
 
@@ -60,7 +58,7 @@
 
 &emsp;&emsp;如果你希望拥有一个自己的网站，那么学习JAVA是一个很不错的方式。我们平常上网看到的很多网站，后台实现都涉及到JAVA语言。
 
-![image-20211122210157508](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211122210157508.png)
+![image-20211122210157508](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180452.png)
 
 
 
@@ -70,7 +68,7 @@
 
 
 
-![image-20211122211941154](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211122211941154.png)
+![image-20211122211941154](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180503.png)
 
 
 &emsp;&emsp;**三、开发游戏**
@@ -103,11 +101,11 @@
 
 &emsp;&emsp;为了帮初学JAVA的小伙伴解决这个问题，**《重学JAVA》系列中特意添加了《社区解疑》的模块，只要在学习的过程中遇到困难，都可在里面请教，管理员会定时给有疑问的小伙伴解答，如果有社区小伙伴积极提供帮助，还可以获得积分，领取社区奖励。**
 
-![image-20211121104003827](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211121104003827.png)
+![image-20211121104003827](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180536.png)
 
 &emsp;&emsp;**二、参考的教程:**
 
-![image-20211124225144530](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211124225144530.png)
+![image-20211124225144530](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180545.png)
 
 
 
@@ -135,7 +133,7 @@
 
 &emsp;&emsp;**针对初学者，博主认为初学者主要的学习路线如下：**
 
-![image-20211123215606527](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211123215606527.png)
+![image-20211123215606527](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180555.png)
 
 
 &emsp;&emsp;至于哪一种方式学习更有效，这个是仁者见仁智者见智的事情。看书的方式：如果你还是在学校，这个是不可避免的，而且书中的知识点描述得更加清楚，忘记时可以及时查阅。
@@ -144,20 +142,20 @@
 
 &emsp;&emsp;**博主特意整理了从初学到进阶的JAVA视频教程和书籍，需要的请点击【此处】领取。视频和书籍会持续更新，如果有其它的视频或者书籍要求，也可以留言让博主帮忙寻找【只要你想学，博主就肯找】**
 
-![image-20211124224348876](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211124224348876.png)
+![image-20211124224348876](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180604.png)
 
 ### 为什么学习时总感觉跟不上老师的进度
 
 &emsp;&emsp;很多初学者都会遇到的问题，在大学中上课时总会感觉老师讲课的进度很快，自己没搞懂这个知识老师已经开始讲解下个知识了，自信心一直被打击，有些同学甚至对这门课程起了厌恶之心。
 
 
-![image-20211124225720720](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211124225720720.png)
+![image-20211124225720720](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180613.png)
 
 &emsp;&emsp;作为过来人，博主以个人的经历分析产生这个问题的有哪些原因：
 
 &emsp;&emsp;首先，**上大学后需要学习的专业课程相对较多，同一门专业课上课时间不再和高中一样相对集中，同时生活和各种社团活动都占用着我们的空闲时间，导致我们没有更多时间和精力用来提前预习课文知识以及课后复习学习过的知识，更重要的是没有一个学习氛围。**，而学习的知识点如果不及时复习和巩固则会逐渐被忘记(就如著名的艾宾浩斯遗忘曲线-下图所示)，最后会呈现出上课的时候感觉老师的讲课的进度很快，没有办法跟上的现象。
 
-![image-20211124231146111](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211124231146111.png)
+![image-20211124231146111](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180621.png)
 
 &emsp;&emsp;因此，**想要在课堂上跟上老师的进度，适当的课前预习和课后复习是必须的，但是这个过程中可能又会遇到新的问题，如果没法解决，则疑问则会越来越多，打击自己学习这门课程的自信心。**这个时候如果有一个可以互相讨论和请教的环境这个问题则可以迎刃而解。
 
@@ -167,7 +165,7 @@
 
 &emsp;&emsp;**打卡解疑地址：**https://bbs.csdn.net/forums/it-diary?category=0&typeId=19641
 
-![image-20211125215134631](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211125215134631.png)
+![image-20211125215134631](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180629.png)
 
 ### JAVA知识体系太复杂，学了又忘该怎么办
 
@@ -177,7 +175,7 @@
 
 &emsp;&emsp;况且现在的开发工具越来越智能和技术论坛也快速发展，**你遇到的百分之95以上的问题在各种论坛上都能够找到答案，因此，你只需要知道解决问题使用什么哪个技术，在论坛上你就能快速找到这个技术的使用方式，而不必将每个技术点都背出来。**
 
-![image-20211125222247967](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211125222247967.png)
+![image-20211125222247967](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180638.png)
 
 
 ### 做期末设计或者项目时如何运用课本上的知识、总感觉学习到的知识不能完成设计
@@ -191,7 +189,7 @@
 
 &emsp;&emsp;2、三人行，必有我师焉。学习时要善于与他人交流，每个人思考的角度不一样，理解到的知识点也不一样，取长补短才能够更有效的掌握知识。交流并不意味着一定要面对面，现在网络发达，完全可以通过各种论坛，交流群相互学习(【社区打卡解疑模块】就非常适合了)。
 
-![image-20211125223911267](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211125223911267.png)
+![image-20211125223911267](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180656.png)
 
 
 ### 怎么知道自己现在学习JAVA到了什么进度
@@ -202,7 +200,7 @@
 
 &emsp;&emsp;**如果想要更进一步掌握知识，那就需要自己将对应模块的知识点梳理成自己理解的知识体系，将各个模块关联起来，然后，通过更多的实战项目去巩固这些知识。这个过程是随着你的学习经历而逐渐丰富，循序渐进的过程。**
 
-![image-20211125231423723](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211125231423723.png)
+![image-20211125231423723](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180704.png)
 
 
 ### 学习JAVA过程这么枯燥，别人是如何坚持下来的
@@ -211,7 +209,7 @@
 
 &emsp;&emsp;为了让初学者遭遇相同的问题，**博主特意在《重学JAVA》系列中添加了【社区解疑】和【社区奖励】模块，博主会定期给一起学习的小伙伴交流解疑，谈谈工作中的趣事，给大家解答学习中的疑惑，同时，博主会给积极学习者定期发送福利，让大家感觉到自己学习是能够收到反馈的，更加有动力继续学习下去。**
 
-![image-20211125233154434](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211125233154434.png)
+![image-20211125233154434](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180712.png)
 
 
 ### 学习JAVA到什么程度才能够找到工作
@@ -242,7 +240,7 @@
 
 &emsp;&emsp;其实工作中常用到的知识点下面的JAVA知识体系已经基本包括了，更重要的是在学习过程中有意识地培养解决问题的一个思路。
 
-![image-20211123215606527](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211123215606527.png)
+![image-20211123215606527](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326180726.png)
 
 
 

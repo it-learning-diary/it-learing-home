@@ -17,7 +17,7 @@ IDEA工具网址：https://www.runoob.com/w3cnote/intellij-idea-usage.html
 &emsp;&emsp;5、输出执行结果
 
 
-![image-20211211152509178](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211211152509178.png)
+![image-20211211152509178](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181103.png)
 
 
 
@@ -37,9 +37,9 @@ IDEA工具网址：https://www.runoob.com/w3cnote/intellij-idea-usage.html
 
 &emsp;&emsp;为了方便开发者安装和软件的使用，博主收集了安装教程和常用的使用技巧的一个PDF文档和电子版工具，需要的小伙伴可以：点击领取
 
-![image-20211211162042608](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211211162042608.png)
+![image-20211211162042608](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181111.png)
 
-![image-20211211165455083](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211211165455083.png)
+![image-20211211165455083](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181118.png)
 
 &emsp;&emsp;二、Eclipse
 
@@ -49,7 +49,7 @@ IDEA工具网址：https://www.runoob.com/w3cnote/intellij-idea-usage.html
 
 &emsp;&emsp;下载地址：https://www.eclipse.org/downloads/
 
-![image-20211211165310021](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20211211165310021.png)
+![image-20211211165310021](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326181124.png)
 
 
 

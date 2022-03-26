@@ -12,7 +12,7 @@
 
 &emsp;&emsp;21年一次逛CSDN博客时偶然的机会看到了官方活动并报名，于是开始了一发不可收拾地写博客旅程。博主应该是官方新星计划活动的第一批受益者，第一批新星计划的参与者现在看来真是藏龙卧虎，现在很多博主已经有七八万粉丝如小Y、杨勇、三思等。
 
-![image-20220313131312928](https://gitee.com/whose-white-moon/blog-image/raw/master/20220313131320.png)
+![image-20220313131312928](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326182006.png)
 
 ---
 
@@ -76,15 +76,15 @@
 
 &emsp;&emsp;步骤1：可以在文章开头简单进行一下自我介绍和描述，让读者对博主有个初步印象，如下：
 
-![image-20220315113042114](https://gitee.com/whose-white-moon/blog-image/raw/master/20220315113042.png)
+![image-20220315113042114](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326182015.png)
 
 &emsp;&emsp;步骤2：文章结尾做个简单总结，引导用户点赞，关注以及评论互动
 
-![image-20220315113352532](https://gitee.com/whose-white-moon/blog-image/raw/master/20220315113352.png)
+![image-20220315113352532](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326182023.png)
 
 &emsp;&emsp;步骤3：在文章结尾给读者推荐相同系列的文章，不宜太多(5、6篇即可)，将读者进一步引流到你的其他文章，有助于提高关注率。
 
-![image-20220315113303890](https://gitee.com/whose-white-moon/blog-image/raw/master/20220315113303.png)
+![image-20220315113303890](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326182029.png)
 
 ---
 
@@ -98,11 +98,11 @@
 
 &emsp;&emsp;案例1：原生导航栏
 
-![image-20220315114503470](https://gitee.com/whose-white-moon/blog-image/raw/master/20220315114503.png)
+![image-20220315114503470](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326182037.png)
 
 &emsp;&emsp;案例2：美化导航栏
 
-![image-20220315114616014](https://gitee.com/whose-white-moon/blog-image/raw/master/20220315114616.png)
+![image-20220315114616014](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326182044.png)
 
 ---
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;如下例：
 
-![image-20220315195748211](https://gitee.com/whose-white-moon/blog-image/raw/master/20220315195748.png)
+![image-20220315195748211](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326182051.png)
 
 
 
@@ -130,7 +130,7 @@
 
 &emsp;&emsp;如下例：
 
-![image-20220315200908090](https://gitee.com/whose-white-moon/blog-image/raw/master/20220315200908.png)
+![image-20220315200908090](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326182058.png)
 
 
 
@@ -140,7 +140,7 @@
 
 &emsp;&emsp;如下例：
 
-![image-20220315201742318](https://gitee.com/whose-white-moon/blog-image/raw/master/20220315201742.png)
+![image-20220315201742318](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326182105.png)
 
 
 
@@ -150,7 +150,7 @@
 
 &emsp;&emsp;如下例：
 
-![image-20220315202358611](https://gitee.com/whose-white-moon/blog-image/raw/master/20220315202358.png)
+![image-20220315202358611](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326182112.png)
 
 #### 技巧5：举例说明
 
@@ -160,7 +160,7 @@
 
 &emsp;&emsp;如下例：
 
-![image-20220315203007307](https://gitee.com/whose-white-moon/blog-image/raw/master/20220315203007.png)
+![image-20220315203007307](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326182120.png)
 
 ---
 
@@ -181,3 +181,4 @@
 ## 重磅推荐
 
 > **新星计划第三季正在CSDN火热进行中，要想文章被更多人看到，收获更多粉丝的朋友**，欢迎加入：[数据库赛道](https://bbs.csdn.net/topics/605064496)
+

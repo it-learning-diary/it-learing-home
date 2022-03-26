@@ -19,15 +19,15 @@
 
 &emsp;&emsp;**Apifox的目标：通过一套系统、一份数据，解决多个系统之间的数据同步问题。** 只要定义好 API 文档，API 调试、API 数据 Mock、API 自动化测试就可以直接使用，无需再次定义；API 文档和 API 开发调试使用同一个工具，API 调试完成后即可保证和 API 文档定义完全一致。**高效、及时、准确！**
 
-![image-20220116093317230](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220116093317230.png)
+![image-20220116093317230](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132925.png)
 
 &emsp;&emsp;**Apifox十大核心功能：**
 
-![image-20220116094821766](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220116094821766.png)
+![image-20220116094821766](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132933.png)
 
 &emsp;&emsp;**最重要的是，这款工具是免费的且没有任何限制：**
 
-![image-20220116104823060](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220116104823060.png)
+![image-20220116104823060](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132942.png)
 
 
 ### 常见功能使用
@@ -38,43 +38,43 @@
 
 &emsp;&emsp;**在此处，我们可以为不同项目单独创建相对应的接口管理，不同的项目设置不同的配置，实现项目之间的用例隔离。** 用户还可以设置软件的外观，软件暂时支持亮色和暗色两大主题，以及9种按钮颜色的配置。
 
-![image-20220116101131986](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220116101131986.png)
+![image-20220116101131986](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132950.png)
 
 
 #### 2、实际项目管理(环境、接口文档、Mock)
 
 &emsp;&emsp;**Apifox的定位是Postman + Swagger + Mock + JMeter，** 所以常用的接口调试就可以直接当成Postman进行使用，除此之外，还可以根据自己的需求进行其他方式的自定义，如测试、生产、Mock等环境的配置。
 
-![image-20220116103425421](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220116103425421.png)
+![image-20220116103425421](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326132957.png)
 
 
-![image-20220116102825050](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220116102825050.png)
+![image-20220116102825050](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326133004.png)
 
 
 &emsp;&emsp;**在线文档预览情况：**
 
-![image-20220116102913950](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220116102913950.png)
+![image-20220116102913950](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326133014.png)
 
 #### 3、自动化测试
 
 &emsp;&emsp;**该方式可以批量对接口进行测试用例测试，然后设置相对应的指标达到性能测试的目的，每次测试后都会生成相对应的测试报告。**
 
-![image-20220116105532998](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220116105532998.png)
+![image-20220116105532998](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326133021.png)
 
 &emsp;&emsp;**测试报告：**
 
-![image-20220116105713361](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220116105713361.png)
+![image-20220116105713361](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326133029.png)
 
 
 #### 4、数据导入和导出
 
 &emsp;&emsp;Apifox提供强大的导入导出功能，支持使用不同的方式实现导入导出，便于用户进行之前的工具迁移，非常人性化。
 
-![image-20220116110413325](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220116110413325.png)
+![image-20220116110413325](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326133036.png)
 
-![image-20220116110525318](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220116110525318.png)
+![image-20220116110525318](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326133043.png)
 
-![image-20220116110557314](https://gitee.com/whose-white-moon/blog-image/raw/master/image-20220116110557314.png)
+![image-20220116110557314](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220326133050.png)
 
 
 ### 小结
