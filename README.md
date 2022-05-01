@@ -43,7 +43,7 @@
 ### 🎯知识体系库
 
 
-![image-20220301000415526](https://gitee.com/whose-white-moon/blog-image/raw/master/20220301000415.png)
+![image-20220501120332011](https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220501120332.png)
 
 
 ---
@@ -192,8 +192,10 @@
 	因为微信群的二维码有效期限制，进群者先添加博主微信【yyuuyy1235】或扫码，后续统一拉进群，**添加时备注：加群**
 	
    <div align="center">
-        <img src="https://gitee.com/whose-white-moon/blog-image/raw/master/20220301075926.jpg" width="260px">
+        <img src="https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220501120429.png" width="260px">
     </div>
+  
+  
 
 ---
 
@@ -206,8 +208,9 @@
 	方式：微信搜索【**IT学习日记**】或者扫码下面的二维码即可关注
 
 <div align="center">
-        <img src="https://gitee.com/whose-white-moon/blog-image/raw/master/20220301080553.png" width="260px">
+        <img src="https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220501120516.png" width="260px">
     	</div>
+
 <br>
 
     关注后回复:【技术圈子大礼包】一次性领取号中所有学习资源
@@ -227,9 +230,8 @@
 - **捐赠鼓励**
 
 	如果觉的IT知识小屋还不错，能够帮助到您，可以请博主喝杯爪哇(咖啡)，荣幸至极！
-	
 <div align="center">
-        <img src="https://gitee.com/whose-white-moon/blog-image/raw/master/20220301155458.jpg" width="260px">
+        <img src="https://it-diary-1308244209.cos.ap-guangzhou.myqcloud.com//image20220501120559.png" width="260px">
     	</div>
 
 ---
